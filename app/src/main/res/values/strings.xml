@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">networkmaps</string>
+    <string name="go2map">MAPS</string>
+    <string name="getpos">CURRENT POSITION</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "251449631191",
+    "firebase_url": "https://maps-a8204.firebaseio.com",
+    "project_id": "maps-a8204",
+    "storage_bucket": "maps-a8204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251449631191:android:2418e20fdbe2343c",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCicLvxx9r7w2QgduZbUfZ3q7Fgo5Xfr7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251449631191-1lbh2n08hjmh5eet53ovuq3d82b3bvs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251449631191:android:fcfd499f23f2cdff",
+        "android_client_info": {
+          "package_name": "com.example.networkmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251449631191-m6bsh6viibivlltff289gmrcfkjfar4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.networkmaps",
+            "certificate_hash": "5832f78fc9d7aa5b224b8ddec48210aabf951c80"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCicLvxx9r7w2QgduZbUfZ3q7Fgo5Xfr7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251449631191-1lbh2n08hjmh5eet53ovuq3d82b3bvs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
